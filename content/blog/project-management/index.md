@@ -1,5 +1,10 @@
 ---
 title: ✅ Manage your projects
+
+_build:
+  render: never
+  list: never
+
 summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
 date: 2023-10-23
 authors:

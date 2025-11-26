@@ -1,5 +1,10 @@
 ---
 title: 👩🏼‍🏫 Teach academic courses
+
+_build:
+  render: never
+  list: never
+
 summary: Embed videos, podcasts, code, LaTeX math, and even test students!
 date: 2023-10-24
 math: true

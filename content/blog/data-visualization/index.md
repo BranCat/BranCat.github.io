@@ -1,5 +1,8 @@
 ---
 title: 📈 Communicate your results effectively with the best data visualizations
+_build:
+  render: never
+  list: never
 summary: Use popular tools such as HuggingFace, Plotly, Mermaid, and data frames.
 date: 2023-10-25
 authors:
