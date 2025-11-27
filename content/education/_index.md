@@ -11,7 +11,7 @@ sections:
   - block: markdown
     content:
       text: |
-        ### PhD in Civil Engineering (Environmental Engineering)
+        ### PhD Degree in Civil Engineering (Environmental Engineering)
         
         **Texas Tech University**  
         *August 2011 – August 2016*<br>

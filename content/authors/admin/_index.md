@@ -65,14 +65,23 @@ profiles:
 ###################################################################################
 ## This part is directly associated with Experience Tab
 work:
-  - position: Physical Scientist
-    company_name: Environment Canada and Climate Change
+
+  - position: Self-employed software developer/open science consultant
+    company_name: Self-employed
+    icon: ''
+    date_start: 2022-01-10
+    date_end:  
+    summary: 
+      Take contracts related to Blockchain/Web3 development projects globally (Solidity, Node JS, Python, React, R)
+
+  - position: Physical Scientist II
+    company_name: Environment Canada
     company_url: 'https://www.canada.ca/en/environment-climate-change.html'
     icon: ''
     date_start: 2024-10-10
     date_end: 2025-07-16
-    summary: |2-
-      Liard River Basin hydrodynamic and water quality modeling
+    summary: 
+      Liard River Basin and Mackenzie River Basins hydrodynamic and water quality modeling
 
   - position: NSERC Researcher 
     company_name: Athabasca University
@@ -80,14 +89,14 @@ work:
     icon: ''
     date_start: 2024-04-01
     date_end: 2024-09-30
-    summary: |2-
+    summary: 
       Microplastic modeling in the soil and subsurface
   
   - position: Water Quality Modeler
     company_name: WSP
     company_url: 'https://www.wsp.com/en-ca/'
     icon: ''
-    date_start: 2022-07-01
+    date_start: 2022-06-01
     date_end: 2022-11-30
     summary: |
       Multiple water quality modeling project support
@@ -99,7 +108,7 @@ work:
     date_start: 2020-02-01
     date_end: 2021-12-31
     summary: |
-      Lower Athabasca River oil sand region hydrodynamic and water quality modeling.
+      Lower Athabasca River oil sand region hydrodynamic and water quality modeling
 
   - position: ORISE Research Fellow 
     company_name: United States Environmental Protection Agency 
@@ -108,7 +117,7 @@ work:
     date_start: 2016-10-01
     date_end: 2019-07-30
     summary: |
-      Water Quality Analysis Simulation Program version 8 (WASP8) model development and application.
+      Water Quality Analysis Simulation Program version 8 (WASP8) model development and application
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -184,9 +193,9 @@ languages:
 
 
 
-Yanlai (Frank) Han got his Ph.D. degree majoring in Civil Engineering from Texas Tech University in 2016.
+Yanlai (Frank) Han got his Ph.D. Civil Engineering from Texas Tech University in 2016.
 
-Yanlai (Frank) Han is has more than 10+ years' experience in hydrology/watershed/groundwater/water quality modeling, geospatial analysis and modeling, statistical analysis and modeling, numerical simulation software development, and environmental chemistry academic research experience. He is an expert in using Fortran, Python, R, SQL programming languages, and has the proven ability to use them to develop high-level automated data analysis scripts and numerical computing algorithms.
+He has more than 10+ years' experience in hydrology/watershed/groundwater/water quality modeling, geospatial analysis and modeling, statistical analysis and modeling, numerical simulation software development, and environmental chemistry academic research experience. He is an expert in using Fortran, Python, R, SQL programming languages, and has the proven ability to use them to develop high-level automated data analysis scripts and numerical computing algorithms.
 
 He is also a 100% self-taught full stack and blockchain developer, and he has invovled several interesting blockchain projects. His top skills include JavaScript/Node JS, React, Rust, and Solidity. 
 
