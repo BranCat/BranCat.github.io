@@ -17,10 +17,10 @@ sections:
         *August 2011 – August 2016*<br>
         *GPA: 3.8/4.0*
         
-        **Dissertation:** Iron-based materials for the remediation of chlorinated ethenes
+        **Dissertation title:** Iron-based materials for the remediation of chlorinated ethenes   
         
-        [Read my dissertation download here](/uploads/Han_Yanlai_PhD_Diss_Final.pdf)
-        
+        **Activities and societies**<br>
+        *Engineering without boarders, Society of environmetnal engineering*
         
     design:
       spacing:
