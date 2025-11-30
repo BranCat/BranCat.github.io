@@ -1,0 +1,23 @@
+{{ define "main" }}
+  {{ .Content }}
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Thesis",
+    "name": "{{ .Title }}",
+    "author": { "@type": "Person", "name": "{{ .Params.author }}" },
+    "url": "{{ .Permalink }}",
+    "datePublished": "{{ .Params.year }}",
+    "inLanguage": "en",
+    "publisher": { "@type": "CollegeOrUniversity", "name": "{{ .Params.institution }}" },
+    "description": "{{ .Params.description }}",
+    "keywords": {{ jsonify .Params.keywords }},
+    "encoding": {
+      "@type": "MediaObject",
+      "contentUrl": "{{ .Params.pdf }}",
+      "fileFormat": "application/pdf"
+    }
+  }
+  </script>
+{{ end }}
